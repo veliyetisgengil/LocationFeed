@@ -1,0 +1,26 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=63:BB:B4:29:A1:8C:6B:1C:72:F7:DD:78:BE:76:B4:CA:F1:DA:3D:6C%3Bmy.mysql_php_register_login
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    63:BB:B4:29:A1:8C:6B:1C:72:F7:DD:78:BE:76:B4:CA:F1:DA:3D:6C
+
+    SHA-1 certificate fingerprint:
+    63:BB:B4:29:A1:8C:6B:1C:72:F7:DD:78:BE:76:B4:CA:F1:DA:3D:6C
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+       AIzaSyDEUbhlselwRQJSgoZrclskJxWw23Z4WD0
+    </string>
+</resources>
